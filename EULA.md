@@ -17,7 +17,7 @@ By using Game Vortex, you acknowledge that you have read, understood, and agree 
 - The license to use Game Vortex is **non-exclusive**, **non-transferable**, and granted for **personal, non-commercial use** only, unless written consent is given.  
 - Plugin development is allowed with limitations based on user status, e.g., only for users designated as **“Insiders.”**
 
----
+
 
 ## 2. Ownership  
 - Game Vortex is fully owned, developed, and maintained by FahrezONE Dev.  
